@@ -1,6 +1,6 @@
 ## Octave
 
-[!](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Gnu-octave-logo.svg/283px-Gnu-octave-logo.svg.png)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Gnu-octave-logo.svg/283px-Gnu-octave-logo.svg.png){width='100px'}
 
 *Octave* es un lenguaje de programación específicamente diseñado para cálculo numérico con vectores y matrices. Constituye una inferfaz de alto nivel para un buen número de librerías estándar de cálculo numérico como LAPACK o BLAS.
 
