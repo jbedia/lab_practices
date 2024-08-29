@@ -1,6 +1,6 @@
 ## Octave
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Gnu-octave-logo.svg/283px-Gnu-octave-logo.svg.png){width='100px'}
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Gnu-octave-logo.svg/283px-Gnu-octave-logo.svg.png)
 
 *Octave* es un lenguaje de programación específicamente diseñado para cálculo numérico con vectores y matrices. Constituye una inferfaz de alto nivel para un buen número de librerías estándar de cálculo numérico como LAPACK o BLAS.
 
@@ -13,4 +13,4 @@ No obstante, la funcionalidad requerida para la mayoría de las prácticas del g
  * Libertad de copiado y distribución.
  * Libertad de modificar y mejorar el programa.
 
-Existen gran cantidad de manuales de ayuda que permitirán al alumno progresar tanto como desee en sus habilidades como programador en Octave/MatLab. Como primera aproximación, se sugiere el [manual introductorio](http://math.jacobs-university.de/oliver/teaching/iub/resources/octave/octave-intro/octave-intro.html) de Hubert Selhofer *et al.*. Además, los alumnos cuentan con un [manual de Octave/Matlab](http://meteo.unican.es/work/juaco/G328_intro_Octave.pdf) adaptado a los requerimientos iniciales para la asignatura.
+Existen gran cantidad de manuales de ayuda que permitirán al alumno progresar tanto como desee en sus habilidades como programador en Octave/MatLab. Como primera aproximación, se sugiere el [manual introductorio](http://math.jacobs-university.de/oliver/teaching/iub/resources/octave/octave-intro/octave-intro.html) de Hubert Selhofer *et al.*. Además, los alumnos cuentan con un [manual de Octave/Matlab](http://meteo.unican.es/work/juaco/G328_intro_Octave.pdf) adaptado a los requerimientos iniciales para esta asignatura.
