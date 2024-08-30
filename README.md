@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jbedia/lab_practices/HEAD?labpath=sucesiones.ipynb)
+
 ## Octave
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Gnu-octave-logo.svg/283px-Gnu-octave-logo.svg.png)
